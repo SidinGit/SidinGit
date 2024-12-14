@@ -34,6 +34,7 @@
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
       <a href="https://www.crowcpp.org/" target="_blank" rel="noreferrer"> <img src="https://crowcpp.org/master/assets/crowlogo_main_color.svg" alt="Crow" width="40" height="40"/> </a>
+      <a href="https://drogonframework.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/131236938/be693c00-693d-11e9-9d03-90c0d5344650" alt="Drogon" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
