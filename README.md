@@ -7,7 +7,7 @@
 
 <p>
   <strong>🔭 I’m currently working on</strong> inter-microservice communications using gRPC<br>
-  <strong>🌱 I’m currently highly interested</strong> in leveraging the power of gRPC services in conjunction with Node.js, Crow, and Drogon<br>
+  <strong>🌱 I’m highly interested</strong> in leveraging the power of gRPC services in conjunction with Node.js, Crow, and Drogon<br>
   <strong>👯 I’m looking to collaborate on</strong> Backend projects where C++ frameworks have been used for performance optimization<br>
   <strong>✉️ Drop me a mail at</strong> sidskole@gmail.com<br>
   <strong>⚡ Fun fact -</strong> I love long comments!
