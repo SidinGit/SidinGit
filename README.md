@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate self-taught backend developer</h3>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <a href="https://github-enchanter-list.vercel.app/list/trophies"><img src="https://github-profile-trophy.vercel.app/?username=SidinGit&theme=juicyfresh&row=1&column=3" alt="SidinGit trophies"/></a> 
-</p>
+</p> -->
 
 <p>
   <strong>🔭 I’m currently working on</strong> inter-microservice communications using gRPC<br>
